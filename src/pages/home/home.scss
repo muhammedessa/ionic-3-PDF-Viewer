@@ -1,3 +1,85 @@
 page-home {
 
+    .pdf-viewer{
+        width: 100%;
+    }
+
+    .textLayer{
+        width: 100%;
+    }
+
+    // .viewer-container {
+    //     width: 100%;
+    //     overflow: hidden;
+    //     padding: 0 16px;
+    //     .viewer {
+    //         position: relative;
+    //         width: 100%;
+    //         .page {
+    //             direction: ltr; 
+    //             width: 100%;
+    //             position: relative;
+    //             overflow: visible;
+    //             background-clip: content-box;
+    //             background-color: white;
+    //             margin: 0 auto 35px;
+    //             .canvas-wrapper {
+    //                 overflow: hidden;
+    //                 position: absolute;
+    //             } 
+    //             &[data-loaded='true'] {
+    //                 .textLayer {
+    //                     margin: 0 auto;
+    //                     position: relative;
+    //                     border: 1px solid #b7b7b7;
+    //                     box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.43);
+    //                 }
+    //             }
+    //             .text-layer {
+    //                  ::selection {
+    //                     background: map-get( $colors, dark); //color: #fff;
+    //                 }
+    //                  ::-moz-selection {
+    //                     background: map-get( $colors, dark); //color: #fff;
+    //                 }
+    //                 &.selectable {
+    //                     -webkit-user-select: text;
+    //                     -moz-user-select: text;
+    //                     -ms-user-select: text;
+    //                     user-select: text;
+    //                 }
+    //                 position: absolute;
+    //                 left: 0;
+    //                 top: 0;
+    //                 right: 0;
+    //                 bottom: 0;
+    //                 overflow: hidden;
+    //                 opacity: 0.2;
+    //                 line-height: 1.0;
+    //                 & > div {
+    //                     color: transparent;
+    //                     position: absolute;
+    //                     white-space: pre;
+    //                     cursor: cell;
+    //                     -webkit-transform-origin: 0% 0%;
+    //                     -moz-transform-origin: 0% 0%;
+    //                     -o-transform-origin: 0% 0%;
+    //                     -ms-transform-origin: 0% 0%;
+    //                     transform-origin: 0% 0%;
+    //                 }
+    //                 cursor: cell;
+    //                 &.selectable {
+    //                     cursor: default;
+    //                     & > div {
+    //                         cursor: text;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
+
+
+
+
 }
